@@ -7,8 +7,8 @@
       <content-section
         title="Who am I?"
       >
-        I'm a developer born in Iran and founder of <a href="http://delix.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=delix">Delix.ir</a>, <a href="https://bytegate.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=bytegate">Bytegate.ir</a> and <a href="http://bobet.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=bobet">Bobet.ir</a> and co-founder of <a href="https://smo.li/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=smoli">Smo.li</a>.<br>
-        I'm interested and skilled in different topics of Information Technology including programming, web development, and computer and network security.
+        I'm a developer born in Indoneesia and founder of <a href="https://bit.ly/ryzahramakeup">Ryzahra-Makeup</a>.<br>
+        I'm interested and skilled in different topics of Information Technology including programming, web development, digital marketing and computer and network security.
       </content-section>
       <content-section
         v-if="prouds"
@@ -119,18 +119,18 @@ export default {
     prouds: [
       {
         icon  : 'mdi-help-rhombus-outline',
-        text  : 'Answered 10M+ questions!',
-        source: '(Bytegate.ir post views)',
+        text  : 'Answered questions!',
+        source: '(post views)',
       },
       {
         icon  : 'mdi-library-music',
-        text  : 'Made people enjoy and learn a new language for equivalent of 29+ years (older than myself!)',
-        source: '(Bobet.ir and its channel downloads)',
+        text  : 'Made people enjoy and learn a new language for equivalent of years (older than myself!)',
+        source: '(channel downloads)',
       },
       {
         icon  : 'mdi-timer-sand',
         text  : 'Saved +110 days of time of students, writers and etc!',
-        source: '(Delix.ir service usages)',
+        source: '(service usages)',
       },
       {
         icon  : 'mdi-account-multiple',
@@ -140,11 +140,11 @@ export default {
     ],
     educations: [
       {
-        from       : '2015',
+        from       : '2008',
         to         : '2019 (not finished yet)',
-        title      : 'Bachelor\'s degree, Information Technology',
-        location   : 'Seraj University',
-        description: 'Became a member of University Academic Association of Computer Science',
+        title      : 'Information Technology',
+        location   : 'Indonesia',
+        description: 'University Academic Association of Computer Science',
       },
     ],
     skills: [
@@ -212,12 +212,12 @@ export default {
       },
       { divider: true },
       {
-        title: 'Leadership',
+        title: 'Digital Marketing',
         icon : 'mdi-account-group',
         value: 68,
       },
       {
-        title: 'Content Marketing (+340 articles)',
+        title: 'Content Marketing',
         icon : 'mdi-text',
         value: 96,
       },
