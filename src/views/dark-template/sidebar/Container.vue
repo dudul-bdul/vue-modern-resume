@@ -7,7 +7,7 @@
       <avatar />
       <div class="text-sm-center mb-4 mt-3">
         <h1>
-          Amirreza <span class="light-blue--text text--lighten-3">Nasiri</span>
+          A <span class="light-blue--text text--lighten-3">Praditia</span>
         </h1>
         <span>
           A challenge-loving web developer
@@ -118,8 +118,8 @@ export default {
             },
             {
               icon: 'mdi-instagram',
-              text: 'instagram.com/amirreza.n96',
-              link: 'https://instagram.com/amirreza.n96',
+              text: 'instagram.com/dudul_bdul',
+              link: 'https://instagram.com/dudul_bdul',
             },
           ],
         },
@@ -148,14 +148,6 @@ export default {
               text: 'Hacking Stuffs',
             },
             {
-              icon: 'mdi-teach',
-              text: 'Teaching',
-            },
-            {
-              icon: 'mdi-karate',
-              text: 'Sports',
-            },
-            {
               icon: 'mdi-music',
               text: 'Music',
             },
@@ -178,18 +170,14 @@ export default {
           items: [
             {
               text : 'English',
-              value: 70,
+              value: 60,
             },
             {
-              text : 'Turkish',
-              value: 45,
-            },
-            {
-              text : 'Azeri',
+              text : 'Indonesia',
               value: 100,
             },
             {
-              text : 'Persian',
+              text : 'Sunda',
               value: 100,
             },
           ],
