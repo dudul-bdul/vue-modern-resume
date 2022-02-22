@@ -131,7 +131,7 @@ export default {
         detailed   : true,
         transparent: true,
         year       : '1991',
-        title      : 'Born on July , 1991',
+        title      : 'Born on July, 1991',
         html       : 'With a chance of %0.00000000000512.<br>I\'m completely aware of value of the life!',
         icon       : 'mdi-cake-variant',
       },
@@ -143,55 +143,10 @@ export default {
         html       : 'ME: "Woooow!"<br><i>... Of course got slapped later!</i>',
         icon       : 'mdi-mouse-variant',
       },
-      {
-        detailed   : true,
-        year       : '2009',
-        transparent: true,
-        title      : 'Started an7.mahblog.com',
-        html       : `
-                <p>
-                    I'm still emotional about this one. It was August 9, 2009 that I decided to start blogging so <a target="_blank" href="https://web.archive.org/web/20090819185659/http://an7.mahblog.com/">an7.mahblog.com</a> has just showed up! Years later, Mahblog.com got censored in Iran and my blog disappeared. <a target="_blank" href="https://web.archive.org/web/20120626234739/http://www.an7.mahblog.com/">Last archived page</a> was on June 26, 2012.
-                </p>
-                <p>
-                    Back then, my blog used to get more than 500 visitors/day and its Page Rank has reached to level 2 which was actually great! Rest In Peace an7 ...
-                </p>
-                <p>
-                    During 2009 - 2011, many other blogs has been created too. For example:
-                    <ul>
-                        <li>
-                            <a href="https://web.archive.org/web/20100926063748/http://bro2gifs.mihanblog.com/post/5">bro2gifs.mihanblog.com</a> - we were receiving banner designing orders there!
-                        </li>
-                        <li>
-                            <a href="https://web.archive.org/web/20101203082548/http://kdabs.mihanblog.com/">kdabs.mihanblog.com</a> - we were publishing audio books there
-                        </li>
-                        <li>
-                            <a href="http://web.archive.org/web/20100909150338/http://best1shops.mihanblog.com/">best1shops.mihanblog.com</a> - it was our first online shop and we got our first income from there. The feeling of that moment was awesome!
-                        </li>
-                        <li>
-                            And many other blogs I can't really remember!
-                        </li>
-                    </ul>
-                </p>
-        `,
-        image      : 'img/timeline/an7.mahblog.com.png',
-        imageHeight: 200,
-        icon       : 'mdi-web',
-      },
-      class="">1</span>
-          </p>
-          <p>
-            <a target="_blank" href="http://delix.ir/?utm_source=portiflo&utm_medium=link&utm_content=timeline&utm_campaign=delix">Delix.ir</a> is an online image text extractor (OCR) and PDF to Word converter which is built to support Persian language especially. The service also provides APIs to implement its OCR engines into customers' own applications.
-          </p>
-          <p>
-            The reason I founded Delix.ir (<u>D</u>ocument <u>ELIXIR</u>) was because back in school, I found out that there is an unsolved need for this kind of services especially needed by teachers. However, it wasn't developed since 2017.
-          </p>
-          <p>
-            Currently, 3330+ people are using the service. It's still under development and we're going to change the strategy to support B2B market soon.
-          </p>
-        `,
-        image    : 'img/timeline/delix.ir.png',
-        iconImage: 'img/timeline/delix.ir-icon.png',
-      },
+      
+
+      
+      
       {
         detailed   : true,
         transparent: true,
@@ -258,38 +213,8 @@ export default {
         image: 'img/timeline/usb-keystroke-injector.png',
         icon : 'mdi-github-circle',
       },
-      {
-        year : '2019',
-        title: 'Co-Founded Smo.li',
-        html : `
-          <p>
-              Current status: <span class="green--text accent-4">Active</span>,
-              Team: <span class="">2</span>
-          </p>
-          <p>
-            <a target="_blank" href="https://smo.li/?utm_source=portiflo&utm_medium=link&utm_content=timeline&utm_campaign=smoli">Smoli</a> is a URL shortener and link tracking platform that also allows you to add eye-catching and branded call-to-actions to any page on the web. See a demo of Forbes campaign on Business News Daily: <a target="_blank" href="http://smo.li/+demo-forbes">smo.li/+demo-forbes</a>.
-          </p>
-          <p>
-            The service has been founded by <a target="_blank" href="https://www.linkedin.com/in/saeidhabibpour/">Saeid Habibpour</a> (CEO) and me (CTO). Currently, the MVP is ready and we're researching the market.
-          </p>
-        `,
-        image    : 'img/timeline/smo.li.png',
-        iconImage: 'img/timeline/smo.li-icon.png',
-      },
-      {
-        year : '2019',
-        title: 'Open Sourced This Resume',
-        html : `
-          <p>
-              Current status: <span class="light-blue--text lighten-3">Open Sourced</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/vue-modern-resume">AmirrezaNasiri/vue-modern-resume</a>
-          </p>
-          <p>
-            A Vue.js-based and powered-by-Vuetify (material UI kit) resume template which you're seeing right now!
-          </p>
-        `,
-        image: 'img/timeline/vue-modern-resume.png',
-        icon : 'mdi-github-circle',
-      },
+      
+      
       {
         year : '2019',
         title: 'Published Vue Registrar Package',
@@ -312,7 +237,8 @@ export default {
         year : 'So far ...',
         title: 'Written 340+ Unique Articles!',
         html : `I'm the guy who loves teaching! So far, I've written 340+ unique articles which most of them are computer-related. You can access them here:
-                    <ul><li><a target="_blank" href="https://bytegate.ir/author/amirrezanasiri/">My posts on Bytegate.ir</a> (260+ Computer-related)</li><li><a target="_blank" href="http://bobet.ir/author/amirrezanasiri/">My posts on Bobet.ir</a> (80+ translations)</li></ul>`,
+ 
+`,
         icon: 'mdi-fountain-pen-tip',
       },
     ],
