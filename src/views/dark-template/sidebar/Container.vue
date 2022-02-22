@@ -84,7 +84,7 @@ export default {
             {
               name: 'Website',
               icon: 'mdi-web',
-              text: 'bit.ly/dudul',
+              text: 'bit.ly/dudul_bdul',
             },
             {
               name: 'Habitation',
