@@ -9,7 +9,9 @@
           fluid
           fill-height
         >
-          <github-ribbon />
+          
+
+
           <v-layout
             align-center
             justify-center
@@ -62,7 +64,7 @@ export default {
     SidebarContainer,
   },
   mounted () {
-    // eslint-disable-next-line no-unused-vars
+    // eslint-disable-next-line no-unused-vars.  <github-ribbon />
     const line = new LeaderLine(
       document.getElementById('to-timeline'),
       document.getElementById('timeline'),
