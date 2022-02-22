@@ -184,8 +184,8 @@ export default {
         title: 'Open Sourced Telegram Web Bridge',
         html : `
           <p>
-              Current status: <span class="light-blue--text lighten-3">Open Sourced</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/telegram-web-bridge">AmirrezaNasiri/telegram-web-bridge</a>
-          </p>
+              Current status: <span class="light-blue--text lighten-3">Open Sourced</span><br>Available on: <a target="_blank" href="https://bit.ly/dudul_bdul">Website</a>
+          </p
           <p>
             Telegram Web Bridge is a bidirectional, web-based, proxy-like application which can act as a middleman for Telegram Bot API requests (from your actual application to Telegram) and Webhooks (from Telegram to your actual application).
           </p>
@@ -201,7 +201,7 @@ export default {
         title: 'Open Sourced USB Keystroke Injector',
         html : `
           <p>
-            Current status: <span class="light-blue--text lighten-3">Open Sourced</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/usb-keystroke-injector">AmirrezaNasiri/usb-keystroke-injector</a>
+            Current status: <span class="light-blue--text lighten-3">Open Sourced</span><br>Available on: <a target="_blank" href="https://bit.ly/dudul_bdul">Website</a>
           </p>
           <p>
             An Arduino-based keyboard emulator which injects (i.e. types) a sequence of letters received via Bluetooth protocol or read from predefined SD card payloads. Demo GIF is available on the GitHub page.
@@ -220,7 +220,7 @@ export default {
         title: 'Published Vue Registrar Package',
         html : `
           <p>
-              Current status: <span class="light-blue--text lighten-3">Published</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/vue-registrar">AmirrezaNasiri/vue-registrar</a>
+              Current status: <span class="light-blue--text lighten-3">Published</span><br>Available on: <a target="_blank" href="https://bit.ly/dudul_bdul">Vue Registrar</a>
           </p>
           <p>
             A Vue.js package that makes developers' code a lot cleaner and much more understandable. It's consisted of two features that:
